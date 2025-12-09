@@ -60,7 +60,7 @@ lib/
 
 ### 2. Clone & Install Dependencies
 ```bash
-git clone [https://github.com/your-username/bukuku-frontend.git](https://github.com/your-username/bukuku-frontend.git)
+git clone https://github.com/fairuzmn/bukuku-frontend.git
 cd bukuku-frontend
 flutter pub get
 ```
